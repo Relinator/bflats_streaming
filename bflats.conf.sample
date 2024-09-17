@@ -1,0 +1,5 @@
+BFLATS_HOME=/home/shop/catio
+BFLATS_STREAM1=rtsps://192.168.1.1:7441/lPQS5CW542w0Cg2a?enableSrtp
+BFLATS_STREAM2=rtsps://192.168.1.1:7441/utgFBElgrRZnumP2?enableSrtp
+BFLAST_URL1=catio
+BFLAST_URL2=catiohd

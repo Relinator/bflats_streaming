@@ -1,0 +1,8 @@
+#
+# this is the second process to start up
+#
+# purpose:  provides the service port that haproxy will connect to for "/catio"
+#
+#
+
+docker run --rm -it --network=host bluenviron/mediamtx
